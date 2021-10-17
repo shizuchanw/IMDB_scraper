@@ -1,0 +1,6 @@
+
+IMDB_scraper/.DS_Store
+*.pyc
+IMDB_scraper/IMDB_scraper/.DS_Store
+IMDB_scraper/IMDB_scraper/spiders/.DS_Store
+.DS_Store
