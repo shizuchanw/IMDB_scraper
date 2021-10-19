@@ -7,3 +7,4 @@ IMDB_scraper/IMDB_scraper/spiders/.DS_Store
 *.pyc
 *.pyc
 .ipynb_checkpoints/recommendation-checkpoint.ipynb
+IMDB_scraper/IMDB_scraper/__pycache__/settings.cpython-37.pyc
