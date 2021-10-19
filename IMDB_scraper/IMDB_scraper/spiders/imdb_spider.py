@@ -3,7 +3,7 @@ import scrapy
 class ImdbSpider(scrapy.Spider):
     name = 'imdb_spider'
     allowed_domains = ["www.imdb.com"]
-    start_urls = ['https://www.imdb.com/title/tt0816692/']
+    start_urls = ['https://www.imdb.com/title/tt0386676/']
 
     def parse(self, response):
         credit_url = response.url + "fullcredits/"
